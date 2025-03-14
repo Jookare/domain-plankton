@@ -2,7 +2,7 @@
 Contains instructions for domain adaptations with plankton data. Check the `Hackathon_task.pdf` -file for more information
 
 ## Dataset
-You can download the dataset from this [onedrive-link](https://lut-my.sharepoint.com/:u:/g/personal/joona_kareinen_lut_fi/ET1V8HRoxHBMvfxdhU5gVzUB8hlbDPfsQ34DynQPVsGSHw?e=XLnrNT)-
+You can download the dataset from this [onedrive-link](https://lut-my.sharepoint.com/:u:/g/personal/joona_kareinen_lut_fi/ET1V8HRoxHBMvfxdhU5gVzUB8hlbDPfsQ34DynQPVsGSHw?e=XLnrNT)
 
 ## Task Description
 
