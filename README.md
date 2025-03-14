@@ -1,5 +1,5 @@
 # domain-plankton
-Contains instructions for domain adaptations with plankton data
+Contains instructions for domain adaptations with plankton data. Check the `Hackathon_task.pdf` -file for more information
 
 ## Dataset
 You can download the dataset from this [onedrive-link](https://lut-my.sharepoint.com/:u:/g/personal/joona_kareinen_lut_fi/ET1V8HRoxHBMvfxdhU5gVzUB8hlbDPfsQ34DynQPVsGSHw?e=XLnrNT)-
@@ -31,8 +31,3 @@ This setup reflects a real-world scenario, where older labeled data is available
 - You can find more information from the results with the full dataset in the [DAPlankton paper](https://arxiv.org/abs/2402.05615).  
 
 ---
-
-
-### Example Pipeline:
-![Example Pipeline](figures/Methods.pdf)  
-**Figure:** (a) Supervised training for baseline performance, (b) Training a domain adaptation method using unlabeled target dataset images.  
